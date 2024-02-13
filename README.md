@@ -1,3 +1,9 @@
+# THIS IS NOT THE OFFICAL REPO!
+
+This is a fork to handle my companies specific use cases. Buyer beware.
+
+Official Repo:  https://github.com/malekim/v-idle
+
 # v-idle
 
 [![codecov](https://codecov.io/gh/malekim/v-idle/branch/master/graph/badge.svg)](https://codecov.io/gh/malekim/v-idle)
